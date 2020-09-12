@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/FredHappyface/ZeldaTwilightPrincess720p.svg?style=for-the-badge)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/ZeldaTwilightPrincess720p.svg?style=for-the-badge)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/ZeldaTwilightPrincess720p.svg?style=for-the-badge)](../../commits/master)
+[![Downloads](https://img.shields.io/github/downloads/FredHappyface/ZeldaTwilightPrincess720p/total.svg?style=for-the-badge)](../../releases)
 
 # ZeldaTwilightPrincess720p
 
@@ -88,7 +89,7 @@ Tested to title screen only. Best to use dds version if at all possible.
 
 #### 720p ONLY
 
-The best way to do this is probably to download  `TwilightPrincess720pPNG.7z`
+The best way to do this is probably to download `TwilightPrincess720pPNG.7z`
 from the releases
 
 1. Download this repo
