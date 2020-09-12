@@ -50,7 +50,8 @@ Download the pack from one of the links above
 
 #### 720p
 
-The best way to do this is probably to download the repo as a zip file
+The best way to do this is probably to download `TwilightPrincess720p.7z` from
+the releases
 
 1. Download this repo
 2. Copy the `TwilightPrincess720p` Directory to
@@ -87,7 +88,8 @@ Tested to title screen only. Best to use dds version if at all possible.
 
 #### 720p ONLY
 
-The best way to do this is probably to download the repo as a zip file
+The best way to do this is probably to download  `TwilightPrincess720pPNG.7z`
+from the releases
 
 1. Download this repo
 2. Copy the `TwilightPrincess720pPNG` Directory to
