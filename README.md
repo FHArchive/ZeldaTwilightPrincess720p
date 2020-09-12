@@ -54,7 +54,7 @@ Download the pack from one of the links above
 The best way to do this is probably to download `TwilightPrincess720p.7z` from
 the releases
 
-1. Download this repo
+1. Download `TwilightPrincess720p.7z` from the releases
 2. Copy the `TwilightPrincess720p` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
@@ -92,7 +92,7 @@ Tested to title screen only. Best to use dds version if at all possible.
 The best way to do this is probably to download `TwilightPrincess720pPNG.7z`
 from the releases
 
-1. Download this repo
+1. Download `TwilightPrincess720pPNG.7z` from the releases
 2. Copy the `TwilightPrincess720pPNG` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
