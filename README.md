@@ -22,9 +22,9 @@ https://www.henrikomagnifico.com/zelda-twilight-princess-4k.
 |Texture Size|Texture Scale|Resolution |Size |URL|
 |:--         |------------:|:---------:|----:|:--|
 |4k          |           x8|1080p-4k   |    ?|https://www.patreon.com/henrikomagnifico|
-|1080p       |           x4|720p-1080p |1.03G|https://www.henrikomagnifico.com/zelda-twilight-princess-4k|
-|720p (unofficial)|      x2|native-720p| 334M|See Download Below|
-|720pPNG (unofficial)|   x2|native-720p| 687M|See Download Below|
+|1080p       |           x4|720p-1080p |1.44G|https://www.henrikomagnifico.com/zelda-twilight-princess-4k|
+|720p (unofficial)|      x2|native-720p| 390M|See Download Below|
+|720pPNG (unofficial)|   x2|native-720p| 677M|See Download Below|
 
 
 ## Installation

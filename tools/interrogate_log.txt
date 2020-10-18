@@ -1,0 +1,2 @@
+grep Fail Custom\ Texture\ Tool\ PS\ v46.2.log | cut -d ' ' -f 1 > failed.txt
+grep Fail Custom\ Texture\ Tool\ PS\ v46.2.log | cut -d ' ' -f 1 | wc -l
